@@ -19,6 +19,6 @@ New Way Labs
 |-------|--------|---|
 |php|9001|7.0|
 |nginx|8080|alpine_latest|
-|mysql|3306|8|
-|mongo|6379|5.0.5 |
-|redis|27017|4.1.11|
+|mysql|3306|5.8|
+|mongo|27017|5.0.5 |
+|redis|6379|4.1.11|
